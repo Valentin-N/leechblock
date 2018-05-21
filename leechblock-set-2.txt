@@ -1,4 +1,5 @@
 +reddit.com/r/*+/comments/*+
++reddit.com/login
 +reddit.com/prefs
 +reddit.com/subreddits
 reddit.com/
