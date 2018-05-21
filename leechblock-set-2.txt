@@ -1,3 +1,4 @@
-reddit.com/top/
-reddit.com/r/*/top/
-reddit.com/r/*/ +reddit.com/r/*/*+
++reddit.com/r/*+/comments/*+
++reddit.com/prefs
++reddit.com/subreddits
+reddit.com/
