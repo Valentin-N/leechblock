@@ -1,4 +1,4 @@
-+reddit.com/r/mealtimevideos/*+
++reddit.com/r/mealtimevideos/*
 +reddit.com/r/*+/comments/*+
 +reddit.com/login
 +reddit.com/prefs
