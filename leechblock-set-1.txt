@@ -4,4 +4,6 @@ arhiblog.ro
 cetin.ro
 cheezburger.com
 epicfail.com
++imgur.com/*+
+imgur.com
 zoso.ro
