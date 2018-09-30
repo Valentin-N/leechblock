@@ -5,6 +5,7 @@ cetin.ro
 cheezburger.com
 epicfail.com
 +i.imgur.com/*+
++imgur.com/*+
 +imgur.com/a/*+
 +imgur.com/t/*+/*+
 imgur.com
