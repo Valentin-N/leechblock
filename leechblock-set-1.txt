@@ -6,6 +6,7 @@ cheezburger.com
 epicfail.com
 +i.imgur.com/*+
 +imgur.com/a/*+
++imgur.com/gallery/*+
 +imgur.com/upload
 +imgur.com/t/*+/*+
 imgur.com
