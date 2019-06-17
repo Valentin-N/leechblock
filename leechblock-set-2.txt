@@ -1,5 +1,6 @@
 +reddit.com/comments
 +reddit.com/login
++reddit.com/over18
 +reddit.com/prefs
 +reddit.com/r/*+/*+
 +reddit.com/r/mealtimevideos/*
