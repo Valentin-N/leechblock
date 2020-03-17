@@ -7,4 +7,5 @@
 +reddit.com/r/*+
 +reddit.com/subreddits
 +reddit.com/user/*+
++reddit.com/users/
 reddit.com
