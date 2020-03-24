@@ -1,6 +1,7 @@
 +9gag.com/gag/*+
 9gag.com
 arhiblog.ro
++biziday.ro/*+
 biziday.ro
 cetin.ro
 cheezburger.com
