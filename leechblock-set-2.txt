@@ -2,9 +2,8 @@
 +reddit.com/login
 +reddit.com/over18
 +reddit.com/prefs
-+reddit.com/r/*+/*+
++reddit.com/r/*+/comments/*+
 +reddit.com/r/mealtimevideos/*
-+reddit.com/r/*+
 +reddit.com/subreddits
 +reddit.com/user/*+
 +reddit.com/users/
