@@ -3,6 +3,7 @@
 +reddit.com/over18
 +reddit.com/prefs
 +reddit.com/r/*+/comments/*+
++reddit.com/r/*+/wiki/*+
 +reddit.com/r/mealtimevideos/*
 +reddit.com/subreddits
 +reddit.com/user/*+
