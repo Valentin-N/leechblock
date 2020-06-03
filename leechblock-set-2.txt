@@ -2,6 +2,7 @@
 +reddit.com/login
 +reddit.com/over18
 +reddit.com/prefs
++reddit.com/r/*+/about/*+
 +reddit.com/r/*+/comments/*+
 +reddit.com/r/*+/search*+
 +reddit.com/r/*+/wiki/*+
