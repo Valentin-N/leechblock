@@ -1,4 +1,5 @@
 +reddit.com/comments
++reddit.com/gallery/*+
 +reddit.com/login
 +reddit.com/over18
 +reddit.com/prefs
