@@ -10,7 +10,7 @@
 +reddit.com/r/*+/wiki/*+
 +reddit.com/r/*+
 +reddit.com/subreddits
-+reddit.com/user/*+
-+reddit.com/users/
+#+reddit.com/user/*+
 reddit.com/user/*+/m/*+
++reddit.com/users/
 reddit.com
