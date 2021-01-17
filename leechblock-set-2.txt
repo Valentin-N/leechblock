@@ -3,6 +3,7 @@
 +reddit.com/login
 +reddit.com/message
 +reddit.com/over18
++reddit.com/poll/*+
 +reddit.com/prefs
 +reddit.com/r/*+/about/*+
 +reddit.com/r/*+/comments/*+
