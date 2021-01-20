@@ -1,3 +1,4 @@
++reddit.com/chat
 +reddit.com/comments
 +reddit.com/gallery/*+
 +reddit.com/login
