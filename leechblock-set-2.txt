@@ -14,4 +14,5 @@
 +reddit.com/subreddits
 +reddit.com/user/*+
 +reddit.com/users/
++reddit.com/video/*+
 reddit.com
